@@ -85,3 +85,10 @@ Faculty of Engineering, Helwan University       IEEE Helwan SB Website
 * Date of Birth: 6^{th} of November, 2001
 * Nationality: Egyptian
 
+# Languages
+* Arabic (Native)
+* English (Very Good)
+
+# Certificates
+Certified Tester Foundation Level (CTFL) v4.0                    March 2025
+International Software Testing Qualifications Board (ISTQB)      CTFL Certificate
