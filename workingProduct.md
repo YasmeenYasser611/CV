@@ -70,5 +70,16 @@ Radio and TV Institute
 Certificate: (https://drive.google.com/file/d/1YEkoamJuxZxXnSmYEdDsJYiUs3ABT1oy/view?usp=drive_link)
 
 
+# Extracurricular Activities
+
+Robotics Club Member, IEEE Helwan SB            Jul 2021 -- Aug 2021
+Faculty of Engineering, Helwan University       IEEE Helwan SB Website
+
+* Ramadan Iftar Campaigns Participant, Ehsan Foundation, Mar 2024.
+* Robotics Club Member, IEEE Helwan SB, Faculty of Engineering, Helwan University, Jul--Aug of 2021.
+* Community Development Initiatives Participant, Engaz Misr, *duration*.
+* Tree-Planting Campaign Contributor, Helwan University, Mar 2021.
+
+
 
 
