@@ -90,5 +90,10 @@ Faculty of Engineering, Helwan University       IEEE Helwan SB Website
 * English (Very Good)
 
 # Certificates
-Certified Tester Foundation Level (CTFL) v4.0                    March 2025
+Certified Tester Foundation Level (CTFL) v4.0                    Mar 2025
 International Software Testing Qualifications Board (ISTQB)      CTFL Certificate
+
+# Experience
+Programming Instructor, Part Time (Hybrid)                       Apr 2023 -- Jul 2023
+STEM Club, The American University in Cairo                      STEM Club Website
+    Job Description/Role:
