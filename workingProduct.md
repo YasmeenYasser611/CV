@@ -81,5 +81,7 @@ Faculty of Engineering, Helwan University       IEEE Helwan SB Website
 * Tree-Planting Campaign Contributor, Helwan University, Mar 2021.
 
 
-
+# Additional Information
+* Date of Birth: 6^{th} of November, 2001
+* Nationality: Egyptian
 
